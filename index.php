@@ -4,4 +4,4 @@
 echo date();
 
 
-echo 'this is ssh test';
+echo 'this is ssh test2';
